@@ -64,12 +64,11 @@ body {
 }
 
 .text {
-    position: absolute;
+    
     font-family: "single day", cursive;
     font-size: 12px;
     text-align: center;
     line-height: 11px;
-    left: 0px;
     padding: 25px;
 }
 
